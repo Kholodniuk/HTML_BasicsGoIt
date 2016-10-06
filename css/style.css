@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  font-size: 14px;
+} 
+
+.main {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f8f2;
+}
+
+.head{
+  width: 500px;
+  margin: auto;
+}
+
+.name{
+  font-size: 27px;
+  color: #010101;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+}
+
+#foto{
+  width: 200px;
+  height: 200px;
+  background-image: url(foto1.png);
+  background-color: #0056d3;
+  border: 1px solid #8f8f8f;
+  margin: 20px auto;
+}
+
+hr {
+  size: 2px;
+  width: 500px;
+  color: #d7d6d4;
+}
+h1{
+  font-size: 20px;
+  font-weight: bold;
+}
+a{
+  font-style: italic;
+}
+a, p{
+  padding-left: 10px;
+}
